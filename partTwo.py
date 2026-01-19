@@ -1,9 +1,12 @@
 import math  
 
 def main():
-#TO DO  
+ A = int(input("Value of A?"))
+ B = int(input("Value of B?"))
+ pythag(A,B)
 
 def pythag(A,B):
-#TO DO  
+   C = math.sqrt((A ** 2) + (B** 2))
+   print(C)
 
 main()

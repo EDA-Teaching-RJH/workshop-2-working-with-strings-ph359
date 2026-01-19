@@ -4,5 +4,7 @@ def main():
 
 def myFunction(text):
   #Your code goes here.
+  text=text.replace(' ','...')
+  print(text)
 
 main()
