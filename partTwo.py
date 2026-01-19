@@ -10,3 +10,4 @@ def pythag(A,B):
    print(C)
 
 main()
+2
